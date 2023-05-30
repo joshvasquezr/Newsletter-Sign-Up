@@ -1,0 +1,55 @@
+html {
+    background-color:  hsl(234, 29%, 20%);
+}
+
+body {
+    background-color: white;
+    width: 950px;
+    height: 625px;
+    margin: auto;
+    margin-top: 167px;
+    padding: 25px 50px;
+    border: 2px solid #000; /* Example border */
+    border-radius: 35px; /* Adjust the value to control the roundness */
+    padding: 10px; /* Example padding */
+}
+
+.big-word {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.75em;
+    margin-left: 45px;
+    margin-top: 75px;
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 45px;
+}
+
+.form {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 45px;
+}
+
+#desktop-image {
+    /* display: inline-flexbox; */
+    position: absolute;
+    top: 194px;
+    right: 26%;
+}
+
+.attribution {
+    margin-top: 190px;
+}
+
+.image-container {
+    position: relative;
+}
+
+.bullet-point {
+    position: absolute;
+}
+
+.bullet-point-list {
+    margin-left: 45px;
+}
